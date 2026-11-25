@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1480" viewBox="0 0 1200 1480" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile README visual preview</title>
+  <desc id="desc">A design preview of the Midnight Terminal GitHub profile README layout.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#101a28"/></linearGradient>
+    <linearGradient id="cyan" x2="1"><stop stop-color="#58d6e8"/><stop offset="1" stop-color="#8b7cf6"/></linearGradient>
+    <linearGradient id="banner" x2="1" y2="1"><stop stop-color="#101c2c"/><stop offset=".55" stop-color="#142137"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <style>
+      .mono{font-family:Consolas,monospace}.sans{font-family:Arial,sans-serif}.muted{fill:#8b949e}.white{fill:#f0f6fc}.cyan{fill:#58d6e8}.line{stroke:#30363d}.small{font-size:13px;letter-spacing:2px}.body{font-size:17px}
+    </style>
+  </defs>
+  <rect width="1200" height="1480" rx="28" fill="#070b10"/>
+  <rect x="25" y="25" width="1150" height="1430" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <rect x="25" y="25" width="1150" height="42" rx="18" fill="#161b22"/>
+  <circle cx="53" cy="46" r="6" fill="#ff6b6b"/><circle cx="75" cy="46" r="6" fill="#e3b341"/><circle cx="97" cy="46" r="6" fill="#3fb950"/>
+  <text x="600" y="51" class="mono muted" font-size="12" text-anchor="middle">github.com / abhiram-tekulapalli</text>
+  <g transform="translate(58 92)">
+    <rect width="1084" height="290" rx="15" fill="url(#banner)" stroke="#26384b"/>
+    <path d="M28 82h125M930 36h110M1000 210h46M38 228h62" stroke="#58d6e8" stroke-opacity=".28"/>
+    <path d="M700 15l150 0m-76 0v55m126-20h150m-280 148h-82" stroke="#8b7cf6" stroke-opacity=".25"/>
+    <path d="M44 50h11v-10h11v10h12" fill="none" stroke="#58d6e8" stroke-width="2"/>
+    <text x="92" y="54" class="mono cyan small">GITHUB PROFILE / AI SYSTEMS</text>
+    <text x="62" y="134" class="mono white" font-size="39" font-weight="700">TEKULAPALLI ABHIRAM</text>
+    <text x="64" y="176" class="mono cyan" font-size="17">AI/ML DEVELOPER  |  FULL-STACK DEVELOPER</text>
+    <text x="64" y="215" class="sans muted" font-size="17">Building intelligent systems and meaningful software.</text>
+    <text x="64" y="258" class="mono muted" font-size="13">BVRIT  /  CSE (AI/ML)  /  2024—2028</text>
+    <rect x="976" y="251" width="32" height="4" rx="2" fill="#58d6e8"/>
+  </g>
+  <g class="sans">
+    <text x="62" y="423" class="mono cyan small">01 / FOCUS</text>
+    <text x="62" y="457" class="white body">Turning research and real-world problems into software people can use.</text>
+    <text x="62" y="484" class="muted body">Applied ML · agentic systems · thoughtful full-stack products</text>
+    <path d="M62 510h1076" class="line"/>
+    <text x="62" y="548" class="mono cyan small">02 / TOOLKIT</text>
+    <text x="62" y="578" class="muted small">LANGUAGES &amp; DATA</text>
+    <g transform="translate(62 594)"><rect width="72" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="36" y="22" class="mono white" font-size="13" text-anchor="middle">PY</text><rect x="82" width="72" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="118" y="22" class="mono white" font-size="13" text-anchor="middle">C++</text><rect x="164" width="90" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="209" y="22" class="mono white" font-size="13" text-anchor="middle">JS</text><rect x="264" width="88" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="308" y="22" class="mono white" font-size="13" text-anchor="middle">SQL</text></g>
+    <text x="62" y="666" class="muted small">PRODUCT &amp; ENGINEERING</text>
+    <g transform="translate(62 682)"><rect width="90" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="45" y="22" class="mono white" font-size="13" text-anchor="middle">REACT</text><rect x="100" width="100" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="150" y="22" class="mono white" font-size="13" text-anchor="middle">NODE.JS</text><rect x="210" width="105" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="262" y="22" class="mono white" font-size="13" text-anchor="middle">MONGODB</text><rect x="325" width="70" height="34" rx="7" fill="#172532" stroke="#24445a"/><text x="360" y="22" class="mono white" font-size="13" text-anchor="middle">GIT</text></g>
+    <path d="M62 745h1076" class="line"/>
+    <text x="62" y="783" class="mono cyan small">03 / SELECTED WORK</text>
+    <g transform="translate(62 803)"><rect width="1076" height="112" rx="10" fill="#111923" stroke="#293441"/><text x="22" y="33" class="sans white" font-weight="700" font-size="19">BoreWell Sentinel India</text><text x="22" y="61" class="sans muted" font-size="15">Groundwater quality intelligence: contaminant risk, testing priorities, trends, and maps.</text><text x="22" y="89" class="mono cyan" font-size="12">PYTHON  ·  MACHINE LEARNING  ·  GEOSPATIAL DATA</text></g>
+    <g transform="translate(62 927)"><rect width="1076" height="112" rx="10" fill="#111923" stroke="#293441"/><text x="22" y="33" class="sans white" font-weight="700" font-size="19">Online Shopper Intent Radar</text><text x="22" y="61" class="sans muted" font-size="15">Purchase intent prediction from browsing sessions, model comparisons, and a Streamlit app.</text><text x="22" y="89" class="mono cyan" font-size="12">PYTHON  ·  PANDAS  ·  SCIKIT-LEARN  ·  STREAMLIT</text></g>
+    <g transform="translate(62 1051)"><rect width="1076" height="112" rx="10" fill="#111923" stroke="#293441"/><text x="22" y="33" class="sans white" font-weight="700" font-size="19">InboxPilot AI</text><text x="22" y="61" class="sans muted" font-size="15">A serverless email intelligence agent with classification, digests, Sheets, and Telegram.</text><text x="22" y="89" class="mono cyan" font-size="12">APPS SCRIPT  ·  GEMINI  ·  GMAIL  ·  GOOGLE SHEETS</text></g>
+    <path d="M62 1190h1076" class="line"/>
+    <text x="62" y="1228" class="mono cyan small">04 / GITHUB ACTIVITY</text>
+    <rect x="62" y="1248" width="518" height="116" rx="10" fill="#0d1117" stroke="#30363d"/><rect x="594" y="1248" width="544" height="116" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <text x="82" y="1280" class="mono muted" font-size="12">PROFILE STATS · GENERATED DAILY</text><path d="M82 1302h160m-160 16h290m-290 16h230" stroke="url(#cyan)" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+    <text x="615" y="1280" class="mono muted" font-size="12">LANGUAGE MIX</text><path d="M615 1306h80m10 0h52m10 0h42m10 0h99m10 0h85" stroke="url(#cyan)" stroke-width="11" stroke-linecap="round"/>
+    <path d="M62 1392h1076" stroke="url(#cyan)"/>
+    <text x="600" y="1423" class="mono muted" font-size="12" text-anchor="middle">THANKS FOR STOPPING BY</text>
+  </g>
+</svg>

@@ -1,42 +1,74 @@
-# Hi 👋, I'm Tekulapalli Abhiram
-
-### AI/ML Engineer | Full Stack Developer | Turning ideas into working apps
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram-tekulapalli&label=Profile views&color=0e75b6&style=flat" alt="abhiram-tekulapalli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram-tekulapalli" alt="abhiram-tekulapalli" /></a> </p>
-
-- 🔭 I'm currently working on **MedSure, a medicine reminder Android app built with React, Tailwind, Firebase and Capacitor**
-
-- 🌱 I'm currently learning **MLOps and cloud deployment, preparing for Microsoft AI-300 certification**
-
-- 👯 I'm looking to collaborate on **Open source AI/ML projects and full stack web apps**
-
-- 💬 Ask me about **Machine Learning, React, Next.js, LLM API integrations, Flask**
-
-- 📫 How to reach me **pokephantom98765@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://abhiram-portfolio-6iya.onrender.com/](https://abhiram-portfolio-6iya.onrender.com/)**
-
-- 📝 I regularly write articles on **[https://abhiram-portfolio-6iya.onrender.com/](https://abhiram-portfolio-6iya.onrender.com/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1gchnvjRJBpNW5gnGqpVxInfdqnu2KQQZ/view?usp=sharing](https://drive.google.com/file/d/1gchnvjRJBpNW5gnGqpVxInfdqnu2KQQZ/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/abhiram-tekulapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhiram-tekulapalli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tekulapalli-abhiram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekulapalli-abhiram" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi_guptha_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_guptha_24" height="30" width="40" /></a>
-<a href="https://leetcode.com/Tekulapalli_Abhiram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tekulapalli_Abhiram" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tekulapalliabhiram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tekulapalliabhiram" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.png" />
+    <img src="assets/header.gif" alt="Tekulapalli Abhiram — AI/ML Developer and Full-Stack Developer" width="100%" />
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://abhiram-tekulapalli.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=googlechrome&logoColor=58D6E8" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/abhiram-tekulapalli"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=58D6E8" alt="LinkedIn" /></a>
+  <a href="https://github.com/abhiram-tekulapalli"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=58D6E8" alt="GitHub" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhiram-tekulapalli&show_icons=true&locale=en&layout=compact" alt="abhiram-tekulapalli" /></p>
+<p align="center">
+  <samp><b>AI/ML DEVELOPER&nbsp; · &nbsp;FULL-STACK DEVELOPER</b></samp><br />
+  <sub>Building intelligent systems and meaningful software.</sub><br />
+  <sub>B.Tech, Computer Science &amp; Engineering (AI/ML) · BVRIT · 2024–2028</sub>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiram-tekulapalli&show_icons=true&locale=en" alt="abhiram-tekulapalli" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiram-tekulapalli&" alt="abhiram-tekulapalli" /></p>
+### 01 / Focus
 
+I like turning research and real-world problems into software people can actually use. Lately, that means applied machine learning, agentic systems, and thoughtful full-stack products.
+
+### 02 / Toolkit
+
+<p>
+  <sub>LANGUAGES &amp; DATA</sub><br />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,java,mysql&theme=dark" alt="Python, C++, JavaScript, Java, and MySQL" />
+</p>
+<p>
+  <sub>PRODUCT &amp; ENGINEERING</sub><br />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,mongodb,git&theme=dark" alt="React, HTML, CSS, Tailwind CSS, Node.js, Express, MongoDB, and Git" />
+</p>
+<p>
+  <sub>MACHINE LEARNING</sub><br />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn&theme=dark" alt="NumPy, Pandas, and scikit-learn" />
+</p>
+
+### 03 / Selected work
+
+**[BoreWell Sentinel India](https://github.com/abhiram-tekulapalli/BoreWell-Sentinel-India)** · [Live demo](https://borewell-sentinel-india-rho.vercel.app/)<br />
+Groundwater quality intelligence: explore contaminant risk, testing priorities, trends, and water-quality signals on an interactive map.<br />
+<sub>PYTHON &nbsp;·&nbsp; MACHINE LEARNING &nbsp;·&nbsp; GEOSPATIAL DATA</sub>
+
+**[Online Shopper Intent Radar](https://github.com/abhiram-tekulapalli/Online-Shopper-Intent-Radar)**<br />
+An end-to-end machine-learning project that estimates purchase intent from browsing sessions, compares models, and presents predictions in a Streamlit app.<br />
+<sub>PYTHON &nbsp;·&nbsp; PANDAS &nbsp;·&nbsp; SCIKIT-LEARN &nbsp;·&nbsp; STREAMLIT</sub>
+
+**[InboxPilot AI](https://github.com/abhiram-tekulapalli/InboxPilot-AI)**<br />
+A serverless email-intelligence agent that classifies and prioritizes messages, then brings the digest into a Google Sheets and Telegram workflow.<br />
+<sub>GOOGLE APPS SCRIPT &nbsp;·&nbsp; GEMINI &nbsp;·&nbsp; GMAIL &nbsp;·&nbsp; GOOGLE SHEETS</sub>
+
+<p><sub><a href="https://github.com/abhiram-tekulapalli?tab=repositories">Explore the rest of my repositories ↗</a></sub></p>
+
+### 04 / GitHub activity
+
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub profile statistics" height="165" />
+  &nbsp;&nbsp;
+  <img src="profile/top-langs.svg" alt="Most used programming languages" height="165" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhiram-tekulapalli/abhiram-tekulapalli/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhiram-tekulapalli/abhiram-tekulapalli/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/abhiram-tekulapalli/abhiram-tekulapalli/output/github-snake.svg" alt="Contribution graph animation" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>THANKS FOR STOPPING BY</sub></p>
+<p align="center"><img src="assets/footer.svg" alt="Cyan terminal line motif" width="100%" /></p>
