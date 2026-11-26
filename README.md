@@ -14,15 +14,9 @@
 
 ---
 
-<img align="right" width="360" src="assets/readme_assets/about.svg" alt="About Abhiram: software engineer and AI/ML student in Hyderabad" />
-
-### About
-
-I build practical software at the intersection of machine learning, agentic AI, and product engineering. My projects range from groundwater risk analysis and research tools to browser extensions, productivity apps, and full-stack platforms.
-
-I enjoy taking an idea through the whole loop: understanding the problem, building the data or product layer, and making the result usable.
-
-<br clear="right" />
+<p align="center">
+  <img src="assets/readme_assets/about.svg" alt="About Abhiram" width="100%" />
+</p>
 
 ### Toolkit
 
@@ -33,7 +27,7 @@ I enjoy taking an idea through the whole loop: understanding the problem, buildi
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,html,css&theme=dark" alt="Python, C++, JavaScript, TypeScript, Java, HTML, and CSS" /><br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask,firebase,cloudflare&theme=dark" alt="React, Next.js, Node.js, Express, Tailwind, FastAPI, Flask, Firebase, and Cloudflare" /><br />
-  <img src="https://skillicons.dev/icons?i=postgres,kubernetes,mongodb,mysql,numpy,pandas,sklearn,pytorch,tensorflow,git,github,docker,langchain&theme=dark" alt="PostgreSQL, Kubernetes, MongoDB, MySQL, NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, Git, GitHub, Docker, and LangChain" />
+  <img src="https://skillicons.dev/icons?i=postgres,kubernetes,mongodb,mysql,sklearn,pytorch,tensorflow,git,github,docker&theme=dark" alt="PostgreSQL, Kubernetes, MongoDB, MySQL, scikit-learn, PyTorch, TensorFlow, Git, GitHub, and Docker" />
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/SQL%20%7C%20RAG-0D1117?style=flat-square&logoColor=58D6E8" alt="SQL and retrieval-augmented generation" /></p>
@@ -44,6 +38,9 @@ I enjoy taking an idea through the whole loop: understanding the problem, buildi
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
   <img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-0D1117?style=flat-square&logo=googleappsscript&logoColor=4285F4" alt="Google Apps Script" />
   <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
@@ -67,7 +64,6 @@ I enjoy taking an idea through the whole loop: understanding the problem, buildi
 | [**Aura New Tab Dashboard**](https://github.com/abhiram-tekulapalli/chrome-dashboard) | Chrome new-tab workspace with clock, shortcuts, notes, todos, Pomodoro timer, and themes. | JavaScript · Chrome MV3 · CSS |
 | [**StudyTravel Simulator**](https://github.com/abhiram-tekulapalli/study-travel-timer) | Gamified focus timer that turns study sessions into flight journeys with progress and session analytics. | React · Vite · Firebase · Gemini |
 | [**Portfolio & CMS**](https://github.com/abhiram-tekulapalli/portfolio) | Personal site with a CMS, blog, and live GitHub and LeetCode statistics. | React · TypeScript · Tailwind · Express · MongoDB |
-| [**KineTrexa**](https://github.com/abhiram-tekulapalli/demo) | Next.js product frontend for a digital services and SaaS experience, with product dashboards and interactive UI. | Next.js · React · Tailwind · Framer Motion |
 
 <p align="center"><a href="https://github.com/abhiram-tekulapalli?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=58D6E8" alt="View all GitHub repositories" /></a></p>
 
